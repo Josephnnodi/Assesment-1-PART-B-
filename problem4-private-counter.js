@@ -12,5 +12,5 @@ const counter = createCounter()
 counter.increment()
 counter.increment()
 counter.decrement()
-console.log(counter.value) // 1
-console.log(counter.count) // undefined — not directly accessible
+console.log(counter.value) 
+console.log(counter.count) 
